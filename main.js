@@ -61,6 +61,7 @@ function returnDefaultPage(){
     mobileMenu.classList.add('inactive');
     desktopMenu.classList.add('inactive');
     productDetailContainer.classList.add('inactive');
+    console.log(product)
 }
 
 /* a list of the avaliable products is 
